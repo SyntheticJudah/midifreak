@@ -1,5 +1,4 @@
-# MIDIFreak: software MIDI-filter for MicroFreak clock messages
-## Software MIDI-filter for MicroFreak clock messages.
+# MIDIFreak: software MIDI-filter for MicroFreak.
 
 MIDIFreak is a small cross-platform utility that filters the MIDI-clock messages transmitted by the Arturia MicroFreak in arpeggiator and sequencer modes. It seems to you've probably also been demotivated by MicroFreak's MIDI-clock behavior when using it with DAW. It's time to fix it.
 
