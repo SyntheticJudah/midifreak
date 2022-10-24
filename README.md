@@ -20,7 +20,7 @@ https://forum.arturia.com/index.php?topic=95274.0<br />
 	`pip install -r requirements.txt`<br />
 	`python midifreak.py`<br />
 	***In some cases you need to use "pip3" instead "pip" and "python3" instead "python"*** <br />
-3. Select midi in port (your MicroFreak) and midi out port (virtual MIDI) and press "Start" button <br />
+3. Select MIDI IN port (your MicroFreak) and MIDI OUT port (virtual MIDI) and press "Start" button <br />
 4. Enjoy! <br />
 
 ## If you find this tool useful - you can buy me a coffee :)
