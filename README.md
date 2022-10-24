@@ -10,7 +10,7 @@ https://forum.arturia.com/index.php?topic=95274.0
 [![screenshot.png](https://i.postimg.cc/W1J8gpCT/screenshot.png)](https://postimg.cc/RW4wzmvD)
 
 ## Installation steps.
-*** This tool was tested on Windows 10 (21H1) and MacOS Big Sur 10.6 with python 3.10.8 ***
+***This tool was tested on Windows 10 (21H1) and MacOS Big Sur 10.6 with python 3.10.8***
 
 0. Get actual Python version from official site - https://www.python.org/downloads/
 1. Set-up virtual MIDI interface by this guide - https://dialogaudio.com/modulationprocessor/guides/virtual_midi/virtual_midi_setup.php
