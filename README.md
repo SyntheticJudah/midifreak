@@ -12,16 +12,16 @@ https://forum.arturia.com/index.php?topic=95274.0<br />
 ## Installation steps.
 ***This tool was tested on Windows 10 (21H1) and MacOS Big Sur 10.6 with Python 3.10.8***
 
-0. Get actual Python version from official site - https://www.python.org/downloads/
-1. Set-up virtual MIDI interface by this guide - https://dialogaudio.com/modulationprocessor/guides/virtual_midi/virtual_midi_setup.php
-2. Go to PowerShell (Win) or Terminal (MacOS) and type: <br />
+0. Get actual Python version from official site - https://www.python.org/downloads/ <br />
+1. Set-up virtual MIDI interface by this guide - https://dialogaudio.com/modulationprocessor/guides/virtual_midi/virtual_midi_setup.php <br />
+2. Go to PowerShell (Win) or Terminal (MacOS) and type: <br /> <br />
 	`git clone https://github.com/SyntheticJudah/midifreak.git`<br />
 	`cd midifreak`<br />
 	`pip install -r requirements.txt`<br />
 	`python midifreak.py`<br />
-	***In some cases you need to use "pip3" instead "pip" and "python3" insted "python"***
-3. Select midi in port (your MicroFreak) and midi out port (virtual MIDI) and press start
-4. Enjoy!
+	***In some cases you need to use "pip3" instead "pip" and "python3" instead "python"*** <br />
+3. Select midi in port (your MicroFreak) and midi out port (virtual MIDI) and press start <br />
+4. Enjoy! <br />
 
 ## If you enjoyed this tool - you can buy me a coffee :)
 
