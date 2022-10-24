@@ -2,10 +2,10 @@
 
 MIDIFreak is a small cross-platform utility that filters the MIDI-clock messages transmitted by the Arturia MicroFreak in arpeggiator and sequencer modes. It seems to you've probably also been demotivated by MicroFreak's MIDI-clock behavior when using it with DAW. It's time to fix it.
 
-You can read more about described issue on the Arturia forum:
-https://forum.arturia.com/index.php?topic=101089.0
-https://forum.arturia.com/index.php?topic=106599.0
-https://forum.arturia.com/index.php?topic=95274.0
+You can read more about described issue on the Arturia forum:<br />
+https://forum.arturia.com/index.php?topic=101089.0<br />
+https://forum.arturia.com/index.php?topic=106599.0<br />
+https://forum.arturia.com/index.php?topic=95274.0<br />
 
 [![screenshot.png](https://i.postimg.cc/W1J8gpCT/screenshot.png)](https://postimg.cc/RW4wzmvD)
 
@@ -19,8 +19,8 @@ https://forum.arturia.com/index.php?topic=95274.0
 	`cd midifreak`<br />
 	`pip install -r requirements.txt`<br />
 	`python midifreak.py`<br />
-3. select midi in port (your MicroFreak) and midi out port (virtual MIDI) and press start
-4. enjoy!
+3. Select midi in port (your MicroFreak) and midi out port (virtual MIDI) and press start
+4. Enjoy!
 
 ## If you enjoyed this tool - you can buy me a coffee :)
 
