@@ -14,11 +14,11 @@ https://forum.arturia.com/index.php?topic=95274.0
 
 0. Get actual Python version from official site - https://www.python.org/downloads/
 1. Set-up virtual MIDI interface by this guide - https://dialogaudio.com/modulationprocessor/guides/virtual_midi/virtual_midi_setup.php
-2. Go to PowerShell (Win) or Terminal (MacOS) and type: 
-	`git clone https://github.com/SyntheticJudah/midifreak.git`
-	`cd midifreak`
-	`pip install -r requirements.txt`
-	`python midifreak.py`
+2. Go to PowerShell (Win) or Terminal (MacOS) and type: <br />
+	`git clone https://github.com/SyntheticJudah/midifreak.git`<br />
+	`cd midifreak`<br />
+	`pip install -r requirements.txt`<br />
+	`python midifreak.py`<br />
 3. select midi in port (your MicroFreak) and midi out port (virtual MIDI) and press start
 4. enjoy!
 
