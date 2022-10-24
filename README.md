@@ -24,9 +24,9 @@ https://forum.arturia.com/index.php?topic=95274.0<br />
 
 ## If you enjoyed this tool - you can buy me a coffee :)
 
-Bitcoin - bc1qffgs2rpr444vnszttp58kqtjd3meflm5fgwj8c
-Ethereum - 0x79CD0a605eD3B405566cD8913EAff22e055f43B9
-Litecoin - ltc1qd0g0r6dg60hvawdw9kussxkd698r69q55u8gfs
-Dogecoin - D7jjbvn9A8JFAfyeZXqwkUebjzz3BZEg5B
+Bitcoin - bc1qffgs2rpr444vnszttp58kqtjd3meflm5fgwj8c<br />
+Ethereum - 0x79CD0a605eD3B405566cD8913EAff22e055f43B9<br />
+Litecoin - ltc1qd0g0r6dg60hvawdw9kussxkd698r69q55u8gfs<br />
+Dogecoin - D7jjbvn9A8JFAfyeZXqwkUebjzz3BZEg5B<br />
 
 
