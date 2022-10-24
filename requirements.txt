@@ -1,0 +1,6 @@
+# MIFIFreak requirements
+# Usage: pip install -r requirements.txt
+
+mido>=1.2.10
+PySimpleGUI>=4.60.4
+python-rtmidi>=1.4.9
